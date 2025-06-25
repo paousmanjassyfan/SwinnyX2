@@ -1,3 +1,3 @@
 # SwinnyX2
 Google Link Here
-[Link Here](google.com)
+[Your Link Here](https://www.google.com)
